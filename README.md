@@ -1,4 +1,4 @@
-# SET08103 Software Engineering Methods
+# SETSET09623 DevOps
 
 | Week | Lectures | Lab | Assessment |
 |------|----------|-----|------------|
@@ -20,10 +20,10 @@
 
 ## Example Project
 
-An example project from the lab series is available [here](https://github.com/kevin-chalmers/sem).
+An example project from the lab series is available [here](https://github.com/Kevin-Sim/DevOps).
 
 ## Copyright Notice
 
-All material provided is &copy; 2018 Kevin Chalmers and Edinburgh Napier University unless otherwise stated.  Use and copying of this material is permitted under the Apache 2.0 license with suitable attribution given to the author.
+All material provided is developed by Kevin Chalmers and modified by Kevin Sim and is &copy; 2019 Edinburgh Napier University unless otherwise stated.  Use and copying of this material is permitted under the Apache 2.0 license with suitable attribution given to the author.
 
 The author accepts no liability in the use of this material.
