@@ -1,14 +1,12 @@
 # Coursework Assessment Details
 
-Group times are available [here](groups).
-
 ## Coursework Proforma
 
 | | |
 | --- | --- |
-| Module number | SET08103 |
-| Module title | Software Engineering Methods |
-| Module leader | Kevin Chalmers |
+| Module number | SET09623 |
+| Module title | DevOps |
+| Module leader | Kevin Sim |
 | Tutor with responsibility for this Assessment. Student's first point of contact. | As above. |
 | Assessment | Project |
 | Weighting | 60% of module assessment |
@@ -254,9 +252,7 @@ The following criteria will be assessed for overall quality:
 
 ### Final Submission (20% of CW mark)
 
-#### SUBMISSION DEADLINE: Midnight Sunday of Week 15
-
-The final deliverable will be pulled automatically from your GitHub.  The final submission will be assessed based on the following criteria:
+You should submit a clone of your final repository to Moodle along with a link to the GitHub repository.  The final submission will be assessed based on the following criteria:
 
 - Metrics from GitHub.  Also used to assess individual contribution.
 - Code quality including comments.
