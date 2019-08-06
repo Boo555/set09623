@@ -117,7 +117,7 @@ Which shows our build is passing.  You can also see the build log under this inf
 
 You might have seen build status badges on GitHub before like this one:
 
-[![Build Status](https://travis-ci.org/kevin-chalmers/sem.svg?branch=master)](https://travis-ci.org/kevin-chalmers/sem)
+[![Build Status](https://travis-ci.org/Kevin-Sim/devops.svg?branch=master)](https://travis-ci.org/Kevin-Sim/devops)
 
 This is taken straight from Travis CI and you can add the badge for your build status to your `README.md` file as well.  To do this, click on the build status badge for your project in Travis CI.  This will open a window allowing you to get the code to access the build status badge:
 
@@ -129,8 +129,7 @@ Make sure you select **Markdown**.  Now we just need to add this to our `README.
 # Software Engineering Methods
 
 - Build Status [![Build Status](https://travis-ci.org/Kevin-Sim/sem.svg?branch=master)](https://travis-ci.org/Kevin-Sim/sem)
-
-
+```
 Now go through our Git update steps:
 
 1. Add files to commit.
