@@ -128,8 +128,8 @@ Make sure you select **Markdown**.  Now we just need to add this to our `README.
 ```md
 # Software Engineering Methods
 
-- Master Build Status [![Build Status](https://travis-ci.org/kevin-chalmers/sem.svg?branch=master)](https://travis-ci.org/kevin-chalmers/sem)
-```
+- Build Status [![Build Status](https://travis-ci.org/Kevin-Sim/sem.svg?branch=master)](https://travis-ci.org/Kevin-Sim/sem)
+
 
 Now go through our Git update steps:
 
@@ -147,20 +147,20 @@ And now we have our project automatically building on pushes to GitHub, and the 
 
 You can add various badges to your project.  [Sheilds.io](https://shields.io/) is one such site that provides badges.  We are going to add two to our `README.md`: one for our license and one for our release.  The license badge takes the URL:
 
-`[![LICENSE](https://img.shields.io/github/license/<github-username>/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)`
+`[![LICENSE](https://img.shields.io/github/license/Kevin-Sim/sem.svg?style=flat-square)](https://github.com/Kevin-Sim/sem/blob/master/LICENSE)`
 
 Just replace `<github-username>` with your GitHub username.  The release badge is:
 
-`[![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)`
+`[![Releases](https://img.shields.io/github/release/Kevin-Sim/sem/all.svg?style=flat-square)](https://github.com/Kevin-Sim/sem/releases)`
 
 At the moment we don't have any releases so the badge won't work.  We will recify this shortly.  Update your `README.md` file to the following (remembering to change the username):
 
 ```md
 # Software Engineering Methods
 
-- Master Build Status [![Build Status](https://travis-ci.org/kevin-chalmers/sem.svg?branch=master)](https://travis-ci.org/kevin-chalmers/sem)
-- License [![LICENSE](https://img.shields.io/github/license/kevin-chalmers/sem/all.svg?style=flat-square)](https://github.com/kevin-chalmers/sem/blob/master/LICENSE)
-- Release [![Releases](https://img.shields.io/github/release/kevin-chalmers/sem/all.svg?style=flat-square)](https://github.com/kevin-chalmers/sem/releases)
+- Build Status [![Build Status](https://travis-ci.org/Kevin-Sim/sem.svg?branch=master)](https://travis-ci.org/Kevin-Sim/sem)
+- License [![LICENSE](https://img.shields.io/github/license/Kevin-Sim/sem.svg?style=flat-square)](https://github.com/Kevin-Sim/sem/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/Kevin-Sim/sem/all.svg?style=flat-square)](https://github.com/Kevin-Sim/sem/releases)
 ```
 
 And then update your GitHub repository:
