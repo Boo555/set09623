@@ -111,7 +111,7 @@ A defect (or bug) has greater impact the longer it is not resolved.  If your pro
 
 ### Tool 2: Value Stream Mapping
 
-A [**Value Steam Map**](https://en.wikipedia.org/wiki/Value_stream_mapping) defines the events that occur to deliver a product or service to a customer.  The point of a map is to identify where work actually occurs as opposed to waiting.
+A [**Value Stream Map**](https://en.wikipedia.org/wiki/Value_stream_mapping) defines the events that occur to deliver a product or service to a customer.  The point of a map is to identify where work actually occurs as opposed to waiting.
 
 An example of a value stream map is doing an assessment.  There are the following events and processes:
 
@@ -376,3 +376,7 @@ In review, we have covered the following areas:
 ![Lean Software Development Book](img/lean-book.jpg)
 
 Another good book to read in general for the case studies and anecdotes.  It contains the toolkit that is the basis for this lecture.  The [Wikipedia Page](https://en.wikipedia.org/wiki/Lean_software_development) provides an overview of the ideas.
+
+
+
+hjello
