@@ -130,12 +130,12 @@ Any dismissed team member has a week to appeal the decision to the module team w
 
 Each group will undertake **four** graded code reviews:
 
-1. Week 3 (20% of CW mark).
-2. Week 6 (20% of CW mark).
-3. Week 9 (20% of CW mark).
-4. Week 12 (20% of CW mark).
+1. Week 1 (20% of CW mark).
+2. Week 2 (20% of CW mark).
+3. Week 3 (20% of CW mark).
+4. Week 4 (20% of CW mark).
 
-The meetings will take place during the lab sessions.  Each group will be given **10 minutes maximum** for the code review.  Your group will be **allocated a time for the code review**.  The details of the individual review points are below.  These meetings **must be attended** at the **stated time**.  Guidelines for grading the group:
+The meetings will take place during the Friday lab sessions.  Each group will be given **10 minutes maximum** for the code review.  Your group will be **allocated a time for the code review**.  The details of the individual review points are below.  These meetings **must be attended** at the **stated time**.  Guidelines for grading the group:
 
 - **Being late** for the meeting or **not being ready** when the meeting starts will result in the grade for that review being capped at 40%.
 - **Not attending** the meeting will mean the code review will be marked at 0%.
@@ -146,7 +146,7 @@ The meetings will take place during the lab sessions.  Each group will be given 
 
 ### Code Review 1
 
-#### REVIEW MEETING: Lab of Week 3
+#### REVIEW MEETING: Lab 3 at the end of Week 1
 
 The aim of this code review meeting is to check that the project workflow is set-up for the team.  You may choose to meet some of the feature requirements during this review point, but it is not as necessary.
 
@@ -172,7 +172,7 @@ The following criteria will be assessed for overall quality:
 
 ### Code Review 2
 
-#### REVIEW MEETING: Lab of Week 6
+#### REVIEW MEETING: Lab 6 at the end of Week 2
 
 The aim of this code review is to check that task management is set-up and that the initial requirements gathering has taken place via user stories and use cases.  You should have completed at least 25% of the work for the project at this point based on your own estimates.
 
@@ -201,7 +201,7 @@ The following criteria will be assessed for overall quality:
 
 ### Code Review 3
 
-#### REVIEW MEETING: Lab of of Week 9 (Reading Week)
+#### REVIEW MEETING: Lab 9 at the end of Week 3 
 
 The aim of this code review is to check that testing has been correctly specified.  At this stage, at least 50% of the work of the project should be completed.
 
@@ -227,7 +227,7 @@ The following criteria will be assessed for overall quality:
 
 ### Code Review 4
 
-#### REVIEW MEETING: Lab of Week 12
+#### REVIEW MEETING: Lab 12 at the end of Week 4
 
 The aim of this code review is to check that the project is deploying correctly.  At this stage, at least 75% of the work of the project should be completed.
 
@@ -250,7 +250,7 @@ The following criteria will be assessed for overall quality:
 - Quality and coverage of unit tests.
 - Project requirements met.
 
-### Final Submission (20% of CW mark)
+### Final Submission (20% of CW mark) End of Week 5
 
 You should submit a clone of your final repository to Moodle along with a link to the GitHub repository.  The final submission will be assessed based on the following criteria:
 
@@ -261,3 +261,5 @@ You should submit a clone of your final repository to Moodle along with a link t
 - Kanban/Project Board being used.
 - Quality and coverage of unit tests.
 - Project requirements met.
+
+See [Lab 12](../labs/lab12) for further details
