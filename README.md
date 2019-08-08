@@ -14,12 +14,8 @@
 | 4 | [Lecture 19: Bug Tracking](lectures/lecture19) <br> [Lecture 20: The Third Way of DevOps - Continuous Experimentation and Learning](lectures/lecture20) | [Lab 10: Bug Tracking](labs/lab10) | |
 |   | [Lecture 21: Ethics and Professionalism](lectures/lecture21) <br> [Lecture 22: Legal Issues](lectures/lecture22) | [Lab 11: Code Quality](labs/lab11) | Code Review 4 |
 |   | [Lecture 23: Computer Security](lectures/lecture23) <br> [Lecture 24: Review](lectures/lecture24) | [Lab 12: Final Deliverable](labs/lab12) | |
-| 5 | | | |
-| 15 | | | Final Deliverable for Coursework and Exam |
+| 5 | | | Final Deliverable for Coursework and Exam |
 
-## Example Project
-
-An example project from the lab series is available [here](https://github.com/Kevin-Sim/DevOps).
 
 ## Copyright Notice
 
