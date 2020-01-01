@@ -1,8 +1,8 @@
 # Lab 12: Final Delivery
 
-This lab defines what you need to do for final submission.  **You must follow these steps to receive a coursework grade for the module.**  We require a copy of your submission for moderation, and therefore you will have to submit your work as defined below.  You will also receive your final 20% grade for final delivery based on the completeness and quality of your submission.
+This lab defines what you need to do for the final submission.  **You must follow these steps to receive a coursework grade for the module.**  We require a copy of your submission for moderation, and therefore you will have to submit your work as defined below.  You will also receive your final 20% grade for final delivery based on the completeness and quality of your submission.
 
-## Step 1: Ensure You Have Submitted Your GitHub Repository Clone URL to Moodle
+## Step 1: Ensure You Have Submitted Your GitHub Repository Clone URL to Moodle and a zip of the final GitHub Repository
 
 We will be performing a pull of your repository at the time of submission using an automated script.  **If you have not provided your GitHub link do so now.**  If you miss the cutoff date for link submission your repository will not be pulled and it will be counted as a none submission.  This is a one minute task.
 
@@ -45,15 +45,15 @@ For example:
 
 We will only assess your `master` branch.  Make sure that branch contains the version of your code you wish to submit.
 
-## Step 5: Submit a Spreadsheet to Moodle Defining Individual Contribution
+## Step 5: Submit the final Individual Contribution Spreadsheet to Moodle
 
 We wish to determine the individual contribution to the team project.  To do this, the team have to submit a single spreadsheet to Moodle defining the agreed contribution of each team member to the individual delivery points.  This should be submitted in percentages.  For example:
 
-|      | Code Review 1 | Code Review 2 | Code Review 3 | Code Review 4 | Final Deliverable | Average |
-|------|---------------|---------------|---------------|---------------|-------------------|-------|
-| Name | 0.25 | 0.5 | 0.0 | 0.25 | 0.2 | 0.24 |
-| Name | 0.25 | 0.5 | 0.5 | 0.25 | 0.4 | 0.38 |
-| Name | 0.25 | 0.0 | 0.5 | 0.25 | 0.2 | 0.24 |
-| Name | 0.25 | 0.0 | 0.0 | 0.25 | 0.2 | 0.14 |
+|      | Code Review 1 | Code Review 2 | Code Review 3 | Code Review 4 | Final Deliverable |
+|------|---------------|---------------|---------------|---------------|-------------------|
+| Name | 0.25 | 0.5 | 0.0 | 0.25 | 0.2 |
+| Name | 0.25 | 0.5 | 0.5 | 0.25 | 0.4 |
+| Name | 0.25 | 0.0 | 0.5 | 0.25 | 0.2 |
+| Name | 0.25 | 0.0 | 0.0 | 0.25 | 0.2 |
 
 The team need to agree these scores.  **If the team cannot agree, or a team member believes the spreadsheet submitted does not represent the actual contributions, then email the teaching team.**  In these circumstances, the metrics and other information provided on GitHub will be used.
