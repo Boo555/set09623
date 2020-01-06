@@ -119,20 +119,22 @@ Individual contributions to the team will be assessed by your peers and the modu
 
 #### Groups must maintain a spreadsheet detailing individual team members contribution at each of the 5 assessment points
 
-We wish to determine the individual contribution to the team project.  To do this, the team have to submit a single spreadsheet to Moodle defining the agreed contribution of each team member to the individual delivery points.  This should be submitted in percentages with the total sum of individual contributions adding up to 100% at each point of assessment.  For example:
+We wish to determine the individual contribution to the team project.  To do this, the team have to submit a single spreadsheet to Moodle at each code review defining the agreed contribution of each team member.  This should be submitted in percentages with the total sum of individual contributions adding up to 100% at each code review.  For example:
 
-|      | Code Review 1 | Code Review 2 | Code Review 3 | Code Review 4 | Final Deliverable |
+| Matric No | Code Review 1 | Code Review 2 | Code Review 3 | Code Review 4 | Final Deliverable |
 | ---- | ------------- | ------------- | ------------- | ------------- | ----------------- |
-| Member1 | 25          | 50          | 0.0           | 0.25          | 0.2               |
-| Member2 | 25          | 50          | 0.5           | 0.25          | 0.4               |
-| Member3 | 25          | 0         | 0.5           | 0.25          | 0.2               |
-| Member4 | 25          | 0           | 0.0           | 0.25          | 0.2               |
+| 40000001 | 25          | 50          | 0.0           | 0.25          | 0.2               |
+| 40000002 | 25          | 50          | 0.5           | 0.25          | 0.4               |
+| 40000003 | 25          | 0         | 0.5           | 0.25          | 0.2               |
+| 40000004 | 25          | 0           | 0.0           | 0.25          | 0.2               |
 | **Total** | **100**   | **100** | **100**      | **100**   | **100** 				|
 The team need to agree these scores.  **If the team cannot agree, or a team member believes the spreadsheet submitted does not represent the actual contributions, then contact a member of the teaching team.**  In these circumstances, the metrics and other information provided on GitHub will be used.
 
 The data supplied in this spreadsheet will be used to weight each team members final mark for each assessment point.
 
-For example, if the group received 18 out of 20 for code review one then all 4 members would get the full 18 marks as all had contributed equally. For code review 2 Members 1 & 2 would get the group mark but Members 3 & 4 would receive zero
+For example, if the group received 18 out of 20 for code review one then all 4 members would get the full 18 marks as all team members had contributed equally. For code review 2 if the group got 16/20 then students 40000001 & 40000002 would get the full mark but 40000003 and 40000004  would receive zero.
+
+For the final deliverable if the group got 14 /20 student 40000002 did the most work and would receive the full 14 marks. The other three students only contributed half as much as 40000002 and would only receive 7 / 20
 
 ## Disciplinary Procedures
 
